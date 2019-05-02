@@ -48,6 +48,8 @@ namespace LabNumber8StudentInfo
                             Console.WriteLine($"Would you like to learn more about {arrNames[index - 1]}? Enter: y/n ");
                             string option = Console.ReadLine().ToLower();
 
+                            
+
                             if (option == "y")
                             {
                                 Console.WriteLine("Would you like to know their hometown or favorite food? Enter: home/food");
