@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\obj\Debug\LabNumber8StudentInfo.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\obj\Debug\LabNumber8StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\bin\Debug\LabNumber8StudentInfo.exe.config
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\bin\Debug\LabNumber8StudentInfo.exe
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\bin\Debug\LabNumber8StudentInfo.pdb
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\obj\Debug\LabNumber8StudentInfo.exe
+C:\Users\jduca\source\repos\LabNumber8StudentInfo\LabNumber8StudentInfo\obj\Debug\LabNumber8StudentInfo.pdb
